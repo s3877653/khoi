@@ -1,0 +1,11 @@
+img{
+    width: 100px;
+    margin-left: 45%;
+}
+h1{
+    text-align: center;
+    color:blue;
+}
+table, th, td {
+    border:1px solid black;
+  }
